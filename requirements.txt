@@ -1,0 +1,4 @@
+ibm-watson
+ibm-generative-ai
+requests
+flask
